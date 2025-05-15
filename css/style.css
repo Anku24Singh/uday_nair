@@ -699,3 +699,19 @@
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: var(--accent-color);
 }
+.category .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.category .col-lg-4 {
+    display: flex;
+    flex-direction: column;
+}
+
+.category .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
