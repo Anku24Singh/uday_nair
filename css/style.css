@@ -1,14 +1,14 @@
 /********** Template CSS **********/
 :root {
     /* --primary: #f69050; */
-    --primary:  #ce1212;
+    --primary:  #939eaa;
     /* --light: #F0FBFC; */
-    --light: #ce1212;
+    --light: #9AA6B2;
     --light: #f0e4de;
     --dark: #181d38;
 }
 #one{
-    background: linear-gradient(135deg, #9eedf6, #9fa6f5, #e8aff4, #bdf6f0, #64f187, #c7b3f5);
+    background: linear-gradient(135deg, #98acae, #9fa6f5, #e8aff4, #bdf6f0, #64f187, #c7b3f5);
     background-size: 400% 400%;
     animation: gradientAnimation 8s ease infinite;
     position: relative;
@@ -36,7 +36,7 @@
 
 .btn {
     /* background-color: #fb873f; */
-    background-color:  #ce1212;
+    background-color:  #6f7c89;
     border: none;
 }
 
@@ -188,7 +188,7 @@
 
 .navbar-toggler-icon {
     /* color: #fb873f; */
-    color:  #ce1212
+    color:  #9AA6B2
     
 }
 
@@ -331,7 +331,7 @@
 
 .page-header-inner {
     /* background: rgba(15, 23, 43, .7); */
-    background:  #ce1212;
+    background:  #9AA6B2;
 }
 
 .breadcrumb-item+.breadcrumb-item::before {
@@ -651,7 +651,7 @@
 }
 
 .testimonials .testimonial-item .stars i {
-  color:  #ce1212;
+  color:  #9AA6B2;
   margin: 0 1px;
 }
 
